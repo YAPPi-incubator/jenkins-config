@@ -1,0 +1,12 @@
+*.log
+*.bak
+.cache/
+.gitignore
+.java/
+jobs/*/*/*/builds/*
+jobs/*/*/*/lastStable
+jobs/*/*/*/lastSuccessful
+jobs/*/*/*/nextBuildNumber
+logs/
+plugins/*/
+war/
